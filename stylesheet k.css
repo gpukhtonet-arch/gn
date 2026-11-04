@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Khayam Pashto';
+    src: url('KhayamPashto-Regular.eot');
+    src: url('KhayamPashto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('KhayamPashto-Regular.woff2') format('woff2'),
+        url('KhayamPashto-Regular.woff') format('woff'),
+        url('KhayamPashto-Regular.ttf') format('truetype'),
+        url('KhayamPashto-Regular.svg#KhayamPashto-Regular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Khayam Pashto';
+    src: url('KhayamPashto-Regular_1.eot');
+    src: url('KhayamPashto-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('KhayamPashto-Regular_1.woff2') format('woff2'),
+        url('KhayamPashto-Regular_1.woff') format('woff'),
+        url('KhayamPashto-Regular_1.ttf') format('truetype'),
+        url('KhayamPashto-Regular_1.svg#KhayamPashto-Regular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
