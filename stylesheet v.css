@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Khayaam';
+    src: url('Khayaam-Regular.eot');
+    src: url('Khayaam-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Khayaam-Regular.woff2') format('woff2'),
+        url('Khayaam-Regular.woff') format('woff'),
+        url('Khayaam-Regular.ttf') format('truetype'),
+        url('Khayaam-Regular.svg#Khayaam-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
